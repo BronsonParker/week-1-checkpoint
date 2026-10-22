@@ -14,7 +14,7 @@
 | 2 | Created my first page | Add first page | main |
 | 3 | Updated index.html | Updated p for testing | main |
 | 5 | Updated README | README Day 2 Part 4 | main |
-| 6 | ... | ... | main |
+| 6 | Updated index.html | Added About Me | main |
 | 7 | ... | ... | main |
 | 8 | ... | ... | main |
 | 9 | ... | ... | main |
