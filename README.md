@@ -17,6 +17,6 @@
 | 5 | Updated index.html | Added About Me | main |
 | 6 | Updated index.html | Added Fav Games List | main |
 | 7 | Updated index.html and README | Added Fav Science List | main |
-| 8 | ... | ... | main |
+| 8 | Added image and stylesheet and updated index | Added Img and Style | main |
 | 9 | ... | ... | main |
 | 10 | ... | ... | main |
